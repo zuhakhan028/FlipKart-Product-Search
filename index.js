@@ -78,48 +78,6 @@ function rotate3() {
   transform3.classList.add("cross_img_rotate")
 }
 
-// let repeatingdiv=document.getElementById("product");
-// let newdiv=document.createElement("div");
-// for(i=0;i<10;i++){
-//    let p= repeatingdiv.cloneNode(true);
-//    let divparent=newdiv.appendChild(p);
-
-// }
-// repeatingdiv.appendChild(newdiv);
-
-
-
-
-
-
-
-
-
-
-// // for(i=0;i<10;i++){
-// //     let divChild=document.getElementById('product')
-// //     document.createElement("div").appendChild(divChild)
-// // }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 const productJSON = [
   {
     title: "APPLE iPhone 11 (White, 64 GB)",
